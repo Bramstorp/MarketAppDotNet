@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/BlazorApp.csproj": {}
+    "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\BlazorApp\\BlazorApp.csproj": {}
   },
   "projects": {
-    "/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/BlazorApp.csproj": {
+    "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\BlazorApp\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/BlazorApp.csproj",
+        "projectUniqueName": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\BlazorApp\\BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/BlazorApp.csproj",
-        "packagesPath": "/Users/mathiasvbramstorp/.nuget/packages/",
-        "outputPath": "/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/obj/",
+        "projectPath": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\BlazorApp\\BlazorApp.csproj",
+        "packagesPath": "C:\\Users\\Mathias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\BlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mathiasvbramstorp/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Mathias\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
