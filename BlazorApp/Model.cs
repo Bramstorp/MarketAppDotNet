@@ -13,7 +13,7 @@ namespace BlazorApp
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
-            => options.UseSqlServer("Server=localhost,1433; Database=GardenDb1;User=sa; Password=1StrongPassword!");
+            => options.UseSqlServer("Server=localhost,1433; Database=GardenDb1;User=sa; Password=<StrongPasswordYouSet>");
     }
 
     public class Garden
