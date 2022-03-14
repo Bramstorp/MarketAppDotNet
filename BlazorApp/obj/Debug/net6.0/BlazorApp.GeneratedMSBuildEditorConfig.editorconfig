@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorApp
 build_property.RootNamespace = BlazorApp
-build_property.ProjectDir = /Users/mathiasvbramstorp/Desktop/BlazorApp/
+build_property.ProjectDir = /Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/mathiasvbramstorp/Desktop/BlazorApp
+build_property.MSBuildProjectDirectory = /Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/mathiasvbramstorp/Desktop/BlazorApp/App.razor]
+[/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mathiasvbramstorp/Desktop/BlazorApp/Pages/Counter.razor]
+[/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mathiasvbramstorp/Desktop/BlazorApp/Pages/FetchData.razor]
+[/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mathiasvbramstorp/Desktop/BlazorApp/Pages/Index.razor]
+[/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mathiasvbramstorp/Desktop/BlazorApp/Shared/SurveyPrompt.razor]
+[/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mathiasvbramstorp/Desktop/BlazorApp/_Imports.razor]
+[/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mathiasvbramstorp/Desktop/BlazorApp/Shared/MainLayout.razor]
+[/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-3ij3p7wwc4
 
-[/Users/mathiasvbramstorp/Desktop/BlazorApp/Shared/NavMenu.razor]
+[/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-wk4bcz64v1
 
-[/Users/mathiasvbramstorp/Desktop/BlazorApp/Pages/Error.cshtml]
+[/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mathiasvbramstorp/Desktop/BlazorApp/Pages/_Host.cshtml]
+[/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mathiasvbramstorp/Desktop/BlazorApp/Pages/_Layout.cshtml]
+[/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

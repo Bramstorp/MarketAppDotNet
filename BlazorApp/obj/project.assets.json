@@ -1829,11 +1829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mathiasvbramstorp/Desktop/BlazorApp/BlazorApp.csproj",
+      "projectUniqueName": "/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/BlazorApp.csproj",
       "projectName": "BlazorApp",
-      "projectPath": "/Users/mathiasvbramstorp/Desktop/BlazorApp/BlazorApp.csproj",
+      "projectPath": "/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/BlazorApp.csproj",
       "packagesPath": "/Users/mathiasvbramstorp/.nuget/packages/",
-      "outputPath": "/Users/mathiasvbramstorp/Desktop/BlazorApp/obj/",
+      "outputPath": "/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mathiasvbramstorp/.nuget/NuGet/NuGet.Config"
