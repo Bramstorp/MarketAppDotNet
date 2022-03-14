@@ -113,7 +113,6 @@
 /Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/obj/Debug/net6.0/staticwebassets.build.json
 /Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/obj/Debug/net6.0/staticwebassets.development.json
 /Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
-/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
 /Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/obj/Debug/net6.0/scopedcss/bundle/BlazorApp.styles.css
 /Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/obj/Debug/net6.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css
 /Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/obj/Debug/net6.0/BlazorApp.csproj.CopyComplete
@@ -122,3 +121,4 @@
 /Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/obj/Debug/net6.0/BlazorApp.pdb
 /Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/obj/Debug/net6.0/BlazorApp.genruntimeconfig.cache
 /Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/obj/Debug/net6.0/ref/BlazorApp.dll
+/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/BlazorApp/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
