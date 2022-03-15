@@ -22,17 +22,12 @@ main[b-ocnk4r8tjs] {
     align-items: center;
 }
 
-    .top-row[b-ocnk4r8tjs]  a, .top-row[b-ocnk4r8tjs]  .btn-link {
+    .top-row[b-ocnk4r8tjs]  a, .top-row .btn-link[b-ocnk4r8tjs] {
         white-space: nowrap;
         margin-left: 1.5rem;
-        text-decoration: none;
     }
 
-    .top-row[b-ocnk4r8tjs]  a:hover, .top-row[b-ocnk4r8tjs]  .btn-link:hover {
-        text-decoration: underline;
-    }
-
-    .top-row[b-ocnk4r8tjs]  a:first-child {
+    .top-row a:first-child[b-ocnk4r8tjs] {
         overflow: hidden;
         text-overflow: ellipsis;
     }
@@ -46,7 +41,7 @@ main[b-ocnk4r8tjs] {
         justify-content: space-between;
     }
 
-    .top-row[b-ocnk4r8tjs]  a, .top-row[b-ocnk4r8tjs]  .btn-link {
+    .top-row a[b-ocnk4r8tjs], .top-row .btn-link[b-ocnk4r8tjs] {
         margin-left: 0;
     }
 }
@@ -67,12 +62,6 @@ main[b-ocnk4r8tjs] {
         position: sticky;
         top: 0;
         z-index: 1;
-    }
-
-    .top-row.auth[b-ocnk4r8tjs]  a:first-child {
-        flex: 1;
-        text-align: right;
-        width: 0;
     }
 
     .top-row[b-ocnk4r8tjs], article[b-ocnk4r8tjs] {
