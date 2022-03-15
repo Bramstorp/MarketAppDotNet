@@ -812,10 +812,7 @@ C:\Users\Mathias\Desktop\MarketAppDotNet\Client\obj\Debug\net6.0\build-gz\wppFE0
 C:\Users\Mathias\Desktop\MarketAppDotNet\Client\obj\Debug\net6.0\blazor.boot.json
 C:\Users\Mathias\Desktop\MarketAppDotNet\Client\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Mathias\Desktop\MarketAppDotNet\Client\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Mathias\Desktop\MarketAppDotNet\Client\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Users\Mathias\Desktop\MarketAppDotNet\Client\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\Mathias\Desktop\MarketAppDotNet\Client\obj\Debug\net6.0\scopedcss\bundle\Client.styles.css
-C:\Users\Mathias\Desktop\MarketAppDotNet\Client\obj\Debug\net6.0\scopedcss\projectbundle\Client.bundle.scp.css
 C:\Users\Mathias\Desktop\MarketAppDotNet\Client\obj\Debug\net6.0\Client.csproj.CopyComplete
 C:\Users\Mathias\Desktop\MarketAppDotNet\Client\obj\Debug\net6.0\Client.dll
 C:\Users\Mathias\Desktop\MarketAppDotNet\Client\obj\Debug\net6.0\refint\Client.dll

@@ -8,101 +8,68 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1360774716,
+        "HashCode": -1766088825,
         "Kind": "Components.Component",
-        "Name": "Client.App",
+        "Name": "Client.Pages.Garden.Edit",
         "AssemblyName": "Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Edit"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.App"
+          "Common.TypeName": "Client.Pages.Garden.Edit"
         }
       },
       {
-        "HashCode": 620663355,
+        "HashCode": 945153784,
         "Kind": "Components.Component",
-        "Name": "Client.App",
+        "Name": "Client.Pages.Garden.Edit",
         "AssemblyName": "Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Client.App"
+            "TagName": "Client.Pages.Garden.Edit"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.App",
+          "Common.TypeName": "Client.Pages.Garden.Edit",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -152288765,
+        "HashCode": 2125356415,
         "Kind": "Components.Component",
-        "Name": "Client.Pages.Counter",
+        "Name": "Client.Pages.Garden.Form",
         "AssemblyName": "Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Counter"
+            "TagName": "Form"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Pages.Counter"
+          "Common.TypeName": "Client.Pages.Garden.Form"
         }
       },
       {
-        "HashCode": -358542798,
+        "HashCode": 1482165978,
         "Kind": "Components.Component",
-        "Name": "Client.Pages.Counter",
+        "Name": "Client.Pages.Garden.Form",
         "AssemblyName": "Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Client.Pages.Counter"
+            "TagName": "Client.Pages.Garden.Form"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1098663202,
-        "Kind": "Components.Component",
-        "Name": "Client.Pages.FetchData",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -1839894996,
-        "Kind": "Components.Component",
-        "Name": "Client.Pages.FetchData",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Pages.FetchData",
+          "Common.TypeName": "Client.Pages.Garden.Form",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -140,39 +107,6 @@
         }
       },
       {
-        "HashCode": -1766088825,
-        "Kind": "Components.Component",
-        "Name": "Client.Pages.Garden.Edit",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Edit"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Pages.Garden.Edit"
-        }
-      },
-      {
-        "HashCode": 945153784,
-        "Kind": "Components.Component",
-        "Name": "Client.Pages.Garden.Edit",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Pages.Garden.Edit"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Pages.Garden.Edit",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1787655438,
         "Kind": "Components.Component",
         "Name": "Client.Pages.Garden.FetchData",
@@ -202,39 +136,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Client.Pages.Garden.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 2125356415,
-        "Kind": "Components.Component",
-        "Name": "Client.Pages.Garden.Form",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Form"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Pages.Garden.Form"
-        }
-      },
-      {
-        "HashCode": 1482165978,
-        "Kind": "Components.Component",
-        "Name": "Client.Pages.Garden.Form",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Pages.Garden.Form"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Pages.Garden.Form",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -450,6 +351,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Client.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1360774716,
+        "Kind": "Components.Component",
+        "Name": "Client.App",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.App"
+        }
+      },
+      {
+        "HashCode": 620663355,
+        "Kind": "Components.Component",
+        "Name": "Client.App",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

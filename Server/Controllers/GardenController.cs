@@ -27,14 +27,14 @@ namespace MarketAppDotNet.Server.Controllers
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-            var devs = await _context.Gardens.ToListAsync();
-            return Ok(devs);
+            var currentgarden = await _context.Gardens.ToListAsync();
+            return Ok(currentgarden);
         }
         [HttpGet("{id}")]
         public async Task<IActionResult> Get(int id)
         {
-            var dev = await _context.Gardens.FirstOrDefaultAsync(a=>a.Id ==id);
-            return Ok(dev);
+            var currentgarden = await _context.Gardens.FirstOrDefaultAsync(a=>a.Id ==id);
+            return Ok(currentgarden);
         }
         [HttpPost]
         public async Task<IActionResult> Post(Garden garden)
@@ -55,8 +55,8 @@ namespace MarketAppDotNet.Server.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
-            var dev = new Garden { Id = id };
-            _context.Remove(dev);
+            var currentgarden = new Garden { Id = id };
+            _context.Remove(currentgarden);
             await _context.SaveChangesAsync();
             return NoContent();
         }

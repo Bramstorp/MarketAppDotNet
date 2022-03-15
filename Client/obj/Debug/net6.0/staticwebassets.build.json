@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "o1r6U5Z6pIkjgcw8Rq1qleMAj7VVlPhyK1JOwkmkEZg=",
+  "Hash": "9rjm3ktTMJDU4jDhnQzHZ0LnFdv75byMCxxs0vhJA2o=",
   "Source": "Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -6868,40 +6868,6 @@
       "OriginalItemSpec": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.MemoryMappedFiles.dll"
     },
     {
-      "Identity": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Client.styles.css",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-      "BasePath": "/",
-      "RelativePath": "Client.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Client.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Client.bundle.scp.css",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "/",
-      "RelativePath": "Client.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Client.bundle.scp.css"
-    },
-    {
       "Identity": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\wwwroot\\css\\app.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
@@ -7123,23 +7089,6 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\wwwroot\\icon-192.png",
-      "SourceId": "Client",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "icon-192.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\icon-192.png"
-    },
-    {
       "Identity": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\wwwroot\\index.html",
       "SourceId": "Client",
       "SourceType": "Discovered",
@@ -7155,23 +7104,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
-    },
-    {
-      "Identity": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\wwwroot\\sample-data\\weather.json",
-      "SourceId": "Client",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "sample-data/weather.json",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\sample-data\\weather.json"
     }
   ]
 }

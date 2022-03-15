@@ -45,39 +45,6 @@
         }
       },
       {
-        "HashCode": -6409122,
-        "Kind": "Components.Component",
-        "Name": "Server.App",
-        "AssemblyName": "Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Server.App"
-        }
-      },
-      {
-        "HashCode": -844586001,
-        "Kind": "Components.Component",
-        "Name": "Server.App",
-        "AssemblyName": "Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Server.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Server.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1986342632,
         "Kind": "Components.Component",
         "Name": "Server.Shared.MainLayout",
@@ -4754,105 +4721,6 @@
         }
       },
       {
-        "HashCode": -1360774716,
-        "Kind": "Components.Component",
-        "Name": "Client.App",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.App"
-        }
-      },
-      {
-        "HashCode": 620663355,
-        "Kind": "Components.Component",
-        "Name": "Client.App",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -152288765,
-        "Kind": "Components.Component",
-        "Name": "Client.Pages.Counter",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -358542798,
-        "Kind": "Components.Component",
-        "Name": "Client.Pages.Counter",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1098663202,
-        "Kind": "Components.Component",
-        "Name": "Client.Pages.FetchData",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -1839894996,
-        "Kind": "Components.Component",
-        "Name": "Client.Pages.FetchData",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 478212732,
         "Kind": "Components.Component",
         "Name": "Client.Pages.Garden.Create",
@@ -5014,6 +4882,72 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Client.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1098663202,
+        "Kind": "Components.Component",
+        "Name": "Client.Pages.FetchData",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -1839894996,
+        "Kind": "Components.Component",
+        "Name": "Client.Pages.FetchData",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -152288765,
+        "Kind": "Components.Component",
+        "Name": "Client.Pages.Counter",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -358542798,
+        "Kind": "Components.Component",
+        "Name": "Client.Pages.Counter",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -5196,6 +5130,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Client.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1360774716,
+        "Kind": "Components.Component",
+        "Name": "Client.App",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.App"
+        }
+      },
+      {
+        "HashCode": 620663355,
+        "Kind": "Components.Component",
+        "Name": "Client.App",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16939,44 +16906,14 @@
   "RootNamespace": "Server",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Server\\_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
       "FilePath": "c:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Server\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Server\\App.razor",
-      "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Server\\Pages\\_Host.cshtml",
-      "TargetPath": "Pages\\_Host.cshtml",
+      "FilePath": "c:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Server\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Server\\Shared\\MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Server\\Pages\\_Layout.cshtml",
-      "TargetPath": "Pages\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Server\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Server\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
     }
   ],
   "SerializationFormat": "0.2"
