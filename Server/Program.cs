@@ -1,7 +1,8 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
-using MarketAppDotNet.Server.Data;
 using Microsoft.EntityFrameworkCore;
+
+using MarketAppDotNet.Server.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
