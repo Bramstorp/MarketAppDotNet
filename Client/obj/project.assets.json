@@ -1546,19 +1546,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/mathiasvbramstorp/.nuget/packages/": {}
+    "C:\\Users\\Mathias\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/MarketAppDotNet.csproj",
-      "projectName": "MarketAppDotNet",
-      "projectPath": "/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/MarketAppDotNet.csproj",
-      "packagesPath": "/Users/mathiasvbramstorp/.nuget/packages/",
-      "outputPath": "/Users/mathiasvbramstorp/Desktop/MarketAppDotNet/obj/",
+      "projectUniqueName": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\client.csproj",
+      "projectName": "client",
+      "projectPath": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\client.csproj",
+      "packagesPath": "C:\\Users\\Mathias\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/mathiasvbramstorp/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Mathias\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -1613,7 +1613,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

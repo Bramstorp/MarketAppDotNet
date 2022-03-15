@@ -1,0 +1,6 @@
+C:\Users\Mathias\Desktop\MarketAppDotNet\Client\obj\Debug\net6.0\client.csproj.AssemblyReference.cache
+C:\Users\Mathias\Desktop\MarketAppDotNet\Client\obj\Debug\net6.0\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Desktop\MarketAppDotNet\Client\obj\Debug\net6.0\client.AssemblyInfoInputs.cache
+C:\Users\Mathias\Desktop\MarketAppDotNet\Client\obj\Debug\net6.0\client.AssemblyInfo.cs
+C:\Users\Mathias\Desktop\MarketAppDotNet\Client\obj\Debug\net6.0\client.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\MarketAppDotNet\Client\obj\Debug\net6.0\client.MvcApplicationPartsAssemblyInfo.cache

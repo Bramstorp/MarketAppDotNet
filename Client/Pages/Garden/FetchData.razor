@@ -1,0 +1,62 @@
+@page "/garden"
+@inject HttpClient client
+@inject IJSRuntime js
+
+<h3>Garden</h3>
+<small>Add as many gardens as you wish.</small>
+<div class="form-group">
+    <a class="btn btn-success" href="garden/create"><i class="oi oi-plus"></i> Create New</a>
+</div>
+<br>
+@if (gardens == null)
+{
+    <text>Loading...</text>
+}
+else if (gardens.Length == 0)
+{
+    <text>No Records Found.</text>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Email</th>
+                <th>Experience (Years)</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Garden currentgarden in gardens)
+            {
+                <tr>
+                    <td>@currentgarden.Id</td>
+                    <td>@currentgarden.Name</td>
+                    <td>
+                        <a class="btn btn-success" href="garden/edit/@currentgarden.Id">Edit</a>
+                        <button class="btn btn-danger" @onclick="@(() => Delete(currentgarden.Id))">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+@code {
+    Garden[] gardens { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        gardens = await client.GetFromJsonAsync<Garden[]>("api/garden");
+    }
+    async Task Delete(int gardenId)
+    {
+        var currentgarden = gardens.First(x => x.Id == gardenId);
+        if (await js.InvokeAsync<bool>("confirm", $"Do you want to delete {currentgarden.FirstName}'s ({currentgarden.Id}) Record?"))
+        {
+            await client.DeleteAsync($"api/garden/{gardenId}");
+            await OnInitializedAsync();
+        }
+    }
+}

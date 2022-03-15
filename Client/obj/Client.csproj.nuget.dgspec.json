@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\MarketAppDotNet.csproj": {}
+    "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\MarketAppDotNet.csproj": {
+    "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\MarketAppDotNet.csproj",
-        "projectName": "MarketAppDotNet",
-        "projectPath": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\MarketAppDotNet.csproj",
+        "projectUniqueName": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\Client.csproj",
+        "projectName": "Client",
+        "projectPath": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\Mathias\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\obj\\",
         "projectStyle": "PackageReference",
