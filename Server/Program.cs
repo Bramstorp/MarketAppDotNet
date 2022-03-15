@@ -1,13 +1,14 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
-using Server.Data;
+using MarketAppDotNet.Server.Data;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
-builder.Services.AddSingleton<WeatherForecastService>();
+builder.Services.AddDbContext<ApplicationDBContext>(options => options.UseSqlServer("Server=localhost,1433; Database=GardenDb1;User=sa; Password=yourStrong(!)Password"));
 
 var app = builder.Build();
 
