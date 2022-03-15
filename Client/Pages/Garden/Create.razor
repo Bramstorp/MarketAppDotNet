@@ -1,0 +1,16 @@
+@page "/garden/create"
+@inject HttpClient http
+@inject NavigationManager uriHelper
+
+<h3>Create Garden</h3>
+
+<Form ButtonText="Create Developer" currentgarden="@currentgarden" OnValidSubmit="@CreateGarden" />
+
+@code {
+    Garden currentgarden = new Garden();
+    async Task CreateGarden()
+    {
+        await http.PostAsJsonAsync("api/garden", currentgarden);
+        uriHelper.NavigateTo("garden");
+    }
+}

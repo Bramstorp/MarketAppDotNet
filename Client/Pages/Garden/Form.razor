@@ -1,0 +1,18 @@
+<EditForm Model="@currentgarden" OnValidSubmit="@OnValidSubmit">
+    <DataAnnotationsValidator />
+    <div class="form-group">
+        <label>Name</label>
+        <div>
+            <InputText @bind-Value="@currentgarden.Name" />
+            <ValidationMessage For="@(() => currentgarden.Name)" />
+        </div>
+    </div>
+    <button type="submit" class="btn btn-success mt-2">
+        @ButtonText
+    </button>
+</EditForm>
+@code {
+    [Parameter] public Garden currentgarden { get; set; }
+    [Parameter] public string ButtonText { get; set; } = "Save";
+    [Parameter] public EventCallback OnValidSubmit { get; set; }
+}
