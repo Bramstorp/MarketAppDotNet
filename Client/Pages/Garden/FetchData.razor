@@ -2,12 +2,13 @@
 @inject HttpClient client
 @inject IJSRuntime js
 
-<h3>Garden</h3>
+<h3>Gardens</h3>
 <small>Add as many gardens as you wish.</small>
 <div class="form-group">
     <a class="btn btn-success" href="garden/create"><i class="oi oi-plus"></i> Create New</a>
 </div>
 <br>
+
 @if (gardens == null)
 {
     <text>Loading...</text>
@@ -22,10 +23,7 @@ else
         <thead>
             <tr>
                 <th>Id</th>
-                <th>First Name</th>
-                <th>Last Name</th>
-                <th>Email</th>
-                <th>Experience (Years)</th>
+                <th>Name</th>
                 <th></th>
             </tr>
         </thead>
@@ -53,7 +51,7 @@ else
     async Task Delete(int gardenId)
     {
         var currentgarden = gardens.First(x => x.Id == gardenId);
-        if (await js.InvokeAsync<bool>("confirm", $"Do you want to delete {currentgarden.FirstName}'s ({currentgarden.Id}) Record?"))
+        if (await js.InvokeAsync<bool>("confirm", $"Do you want to delete {currentgarden.Name}'s ({currentgarden.Id}) Record?"))
         {
             await client.DeleteAsync($"api/garden/{gardenId}");
             await OnInitializedAsync();

@@ -4,12 +4,12 @@
     "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\MarketAppDotNet.csproj": {
+    "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\MarketAppDotNet.csproj",
-        "projectName": "MarketAppDotNet",
-        "projectPath": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\MarketAppDotNet.csproj",
+        "projectUniqueName": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\Client.csproj",
+        "projectName": "Client",
+        "projectPath": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\Mathias\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\obj\\",
         "projectStyle": "PackageReference",
@@ -25,7 +25,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Shared\\Shared.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -100,8 +104,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\MarketAppDotNet.csproj": {
-                "projectPath": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\MarketAppDotNet.csproj"
+              "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\Client.csproj": {
+                "projectPath": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Client\\Client.csproj"
               },
               "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Shared\\Shared.csproj": {
                 "projectPath": "C:\\Users\\Mathias\\Desktop\\MarketAppDotNet\\Shared\\Shared.csproj"
